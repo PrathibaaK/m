@@ -242,7 +242,7 @@ SECTIONBELOWTOINSERTDYNAMICVALUESFROMYOURPLATFORMORCMS.
 * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT:
 https://disqus.com/admin/universalcode/#configuration-variables*/
 vardisqus_config=function(){
-this.page.url="https://harsha-var . github.io/rate_it ";//ReplacePAGE_URLwithyour
+this.page.url="https://pratt . github.io/rate_it ";//ReplacePAGE_URLwithyour
 page'scanonicalURLvariable
 this.page.identifier= 120;//Replace PAGE_IDENTIFIER with yourpage's unique
 identifiervariable
